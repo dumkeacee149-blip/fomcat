@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dev",
+      "runtimeExecutable": "/Users/a7/.nvm/versions/node/v24.14.0/bin/node",
+      "runtimeArgs": ["/Users/a7/读书打卡/node_modules/.bin/next", "dev"],
+      "port": 3000,
+      "autoPort": true,
+      "env": {
+        "PATH": "/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+      }
+    }
+  ]
+}
